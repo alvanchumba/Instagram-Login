@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	min-height: 100vh;
+	align-items: center;
+	justify-content: center;
+	background: linear-gradient(#fb009f,#fe0202);
+}
+
+.container{
+	text-align: center;
+
+}
+.text{
+	color: #fff;
+	letter-spacing: 1px;
+	margin: 10px;
+}
